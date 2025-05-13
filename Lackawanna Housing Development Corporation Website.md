@@ -67,3 +67,7 @@
   </footer>
 </body>
 </html>
+
+<div class="logo">
+  <img src="LHDC Logo.png" alt="Lackawanna Housing Development Corporation Logo" />
+</div>
